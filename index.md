@@ -1,8 +1,6 @@
 ## Welcome to My Website!
 
-You can use the [editor on GitHub](https://github.com/HKBNguyen/hkbnguyen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This summer I'm delving into my web development both for my own interests and a position I'll be working at this summer! I hope to grow as a problem solver and expand my skills into other domains. Feel free to reach out to me at my email!
 
 ### Markdown
 
