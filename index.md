@@ -2,19 +2,9 @@
 
 This summer I'm delving into my web development both for my own interests and a position I'll be working at this summer! I hope to grow as a problem solver and expand my skills into other domains. Feel free to reach out to me at my email!
 
-### Markdown
+### About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HKBNguyen/hkbnguyen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I'm currently in university and hoping to start a career in technology. My interests include programming, mathematics, and the intersection between computers and society. I think that eventually computers will be even more widespread than they are right now and it is important to learn and understand them.
 
 ### Contact
 
