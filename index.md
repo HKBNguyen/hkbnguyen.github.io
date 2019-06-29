@@ -9,3 +9,11 @@ This is my personal website that I created through Github Pages. Here, I'll be p
 ### Contact
 
 Want to contact me for a project or just want to talk? Feel free to email [here](mailto:hkbnguyen3@g.ucla.edu).
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
