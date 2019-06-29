@@ -2,9 +2,9 @@
 
 This summer I'm delving into my web development both for my own interests and a position I'll be working at this summer! I hope to grow as a problem solver and expand my skills into other domains. Feel free to reach out to me at my email!
 
-### About
+### A Quick Intro
 
-I'm currently in university and hoping to start a career in technology. My interests include programming, mathematics, and the intersection between computers and society. I think that eventually computers will be even more widespread than they are right now and it is important to learn and understand them.
+This is my personal website that I created through Github Pages. Here, I'll be posting random blog posts and other updates to cool projects that I (hopefully) won't procastinate on.
 
 ### Contact
 
